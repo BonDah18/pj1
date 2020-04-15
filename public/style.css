@@ -1,0 +1,35 @@
+body {
+  background-color: powderblue;
+  background-image: url("https://specials-images.forbesimg.com/imageserve/5daaf195616a450007041f83/960x0.jpg?fit=scale")
+}
+h1 {
+  color: green;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: brown;
+  font-family: courier;
+  font-size: 160%;
+}
+    
+    p {
+  border: 1px solid powderblue;
+  margin: 50px;
+}
+    
+    #p01 {
+  color: green;
+}
+    
+    .error {
+  color: red;
+}
+
+img {
+  border: 2px solid red;
+  padding: 50px;
+  background-color: green;
+  margin-left: 50px;
+  margin-bottom: 50px
+}
